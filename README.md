@@ -55,3 +55,19 @@ isDigit（）：判断给定的字符是否是数字。
 各个类型判断见第三部分程序代码的第4点判断文法类型的第（2）小点。
 5)	输出格式；
 		调用判断文法类型的方法和调用文法对象的get方法获取相应四元组，并按一定格式输出。
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/5d72e906-caa1-47bc-87e8-899139014207)
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/b3193b97-6cec-4b85-8101-fd2a19089101)
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/8e357c2d-2be3-42b2-be9c-53e9cafdb936)
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/d7ef190f-bbe9-469d-971d-70531a53ed12)
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/ad945d73-e7bd-4676-bb1b-31ef7316b2e3)
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/dcb85f98-cda7-42f4-b0e5-13ecceb002f6)
+
+![image](https://github.com/HarveyJI/Grammar-judgment-program/assets/78439035/e5145ec0-3d7e-4d27-bf38-570a61130228)
+
+
